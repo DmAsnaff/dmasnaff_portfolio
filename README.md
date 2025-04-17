@@ -12,7 +12,7 @@ This is my portfolio website which showcase my self, my previous acheivements, P
 -   **about.html**: This page tell about my self and my educational qualifications.
 -   **portfolio.html**: This showcase my projects that i have done previously.
 -   **contact.html**: My Contact information and form for inquiries, But form is not functioning one for now.
--   **service.html**: This page shows what are the services that i can [provide for the clients]
+-   **service.html**: This page shows what are the services that i can
 
 ### CSS Files:
 
