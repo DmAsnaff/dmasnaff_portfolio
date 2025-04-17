@@ -1,6 +1,6 @@
 # Multimedia Portfolio Website Documentation
 
-## Project Overview (Edit the content as required)
+## Project Overview
 This is me D. Mohamed Asnaff, An undergraduate student at Rajarata University of Sri Lanka doing 3+1 years BSc in Information technology degree.
 This is my portfolio website which showcase my self, my previous acheivements, Projects done for clients etc. It is for an Assignment on ICT 2210 module.
 
@@ -43,14 +43,3 @@ This is my portfolio website which showcase my self, my previous acheivements, P
 -   **Asnaff's CV 2023.pdf**: Inside the pdf folder I have a PDF file containing the my CV.
 
 
-### Other Files:
-
--   **chat with chatGPT 3.5**: https://chat.openai.com/share/73fcb506-77d0-4a62-9723-0426d5040978
-
-## Future Enhancements
-
--   **Improvements**: The whole design will be changed into a single page portfolio. 
-
-## Conclusion
-
-I'm now live on http://dmasnaff.me
